@@ -1,5 +1,3 @@
-![profile](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/383c5f45-6b51-4f95-b1a7-cfe1f1a8ce0c)
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical&column=4&margin-w=15&margin-h=15" alt="gustavonerywe" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
 
